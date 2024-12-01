@@ -145,7 +145,7 @@ table td:nth-child(3) {
     }
     .form-row{
         display: block;
-        padding: ;
+        padding: 0px;
     }
     .form-row, .form-row {
         width: 100%;
